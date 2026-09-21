@@ -1,5 +1,7 @@
 # Compt Overview
 
+![Compt](assets/compt-cover.svg)
+
 [Link to Company Website](https://compt.io/)
 
 ---
