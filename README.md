@@ -15,9 +15,9 @@
 
 ## Overview
 
-This repo is built to showcase what I built as a **Frontend Software Engineer II at Compt** (2022 – 2024). The source code is closed-source, so I am including this README to demonstrate what I built on a high level and the technologies I leveraged.
+I worked at Compt as a **Frontend Software Engineer II** (2022 - 2024). This overview describes my work and the technologies I used. The application source code is private.
 
-Compt is a tax-compliant expense-management and team-recognition platform: flexible employee stipends and lifestyle spending accounts (LSAs), reimbursements, rewards, and recognition, with automated tax treatment and payroll integration. Companies using Compt for benefits include MasterClass, Nextdoor, Jellyvision, and Webflow.
+Compt manages employee stipends, lifestyle spending accounts (LSAs), reimbursements, rewards, and team recognition. It handles tax treatment and integrates with payroll systems. Customers include MasterClass, Nextdoor, Jellyvision, and Webflow.
 
 > [Back to the top](#compt-overview)
 ---
@@ -38,33 +38,33 @@ Compt is a tax-compliant expense-management and team-recognition platform: flexi
 
 ## Features
 
-While working at Compt I led or owned the following:
+My work at Compt included:
 
-  - **Full style redesign of the app** — led the implementation of a new visual system, including integrating a new frontend stack (Tailwind CSS + a Storybook component library) into the existing React application.
+  - **App redesign:** I led the frontend implementation, adding Tailwind CSS and a Storybook component library to the existing React app.
 
-  - **Component library** — built and documented reusable components in Storybook, working one-on-one with the product designer to take them from wireframe to hi-fi.
+  - **Component library:** I built and documented reusable components in Storybook, working with the product designer from wireframes through final designs.
 
-  - **Admin control center** — features for the HR/admin side of the product: configuring perks and stipends, visibility and reporting.
+  - **Admin control center:** I built features for HR teams to configure perks and stipends, manage visibility, and view reports.
 
-  - **Testing** — improved and expanded unit and end-to-end testing coverage.
+  - **Testing:** I added unit and end-to-end tests.
 
-  - **Team practices** — acted as the team's subject-matter expert for TypeScript, React, CSS, Tailwind, and Storybook; ran standups; presented Lunch & Learns; mentored colleagues on frontend design.
+  - **Team support:** I helped colleagues with TypeScript, React, CSS, Tailwind, and Storybook. I also ran standups, presented Lunch & Learns, and mentored teammates on frontend development.
 
-  - **Hiring** — interviewed and onboarded new hires, and wrote interview questions and take-home challenges.
+  - **Hiring:** I interviewed and onboarded developers and wrote interview questions and take-home challenges.
 
 > [Back to the top](#compt-overview)
 ---
 
 ## Challenges
 
-  A style redesign across a mature product means touching nearly every screen without breaking the ones customers depend on daily. The approach that worked: build the new system as isolated, documented components first (Storybook), migrate screen by screen behind the existing tests, and keep the designer in the loop on every component rather than at the end.
+The redesign affected nearly every screen in an app customers used daily. I built and documented components in Storybook first, reviewed them with the designer, then migrated screens using the existing tests to check for regressions.
 
 > [Back to the top](#compt-overview)
 ---
 
 ## Successes
 
-  The redesign shipped, and the component library it produced became the team's shared vocabulary for new work. Beyond the code, this is the role where I grew into leading on the frontend — running standups, teaching, mentoring, and hiring — which carried directly into my senior role at Continuum.
+The redesign shipped, and the team used the component library for subsequent features. I also took on more frontend leadership through standups, mentoring, and hiring before moving into my senior role at Continuum.
 
 > [Back to the top](#compt-overview)
 ---
