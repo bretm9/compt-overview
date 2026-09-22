@@ -1,6 +1,8 @@
 # Compt Overview
 
-![Compt](assets/compt-cover.svg)
+<p align="center">
+  <img src="assets/compt-cover.webp" alt="Compt" width="400">
+</p>
 
 [Link to Company Website](https://compt.io/)
 
